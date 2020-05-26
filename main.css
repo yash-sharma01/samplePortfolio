@@ -23,7 +23,7 @@ html,body {
     height: 100%;
 }
 h1 {
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 900;
     color: var(--main-black);
 }
@@ -50,7 +50,7 @@ a {
 }
 .r {
     text-align: right;
-    margin-right: 300px;
+    /* margin-right: 300px; */
     margin-bottom: 530px;
 }
 .l {
@@ -130,7 +130,7 @@ nav a {
     height: 100px;
     width: 620px;
     position: absolute;
-    top: 0px;
+    top: -35px;
     left: -80px;
     z-index: -1;
 }
@@ -139,7 +139,7 @@ nav a {
     width: 120px;
     background-color: var(--main-black);
     position: absolute;
-    top: 30px;
+    top: 20px;
     left: -140px;
 }
 .line2 {
@@ -155,8 +155,8 @@ nav a {
 }
 .rec-large-2 {
     background-color: var(--main-blue);
-    height: 260px;
-    width: 1000px;
+    height: 216px;
+    width: 900px;
     position: absolute;
     top: -142px;
     left: -472px;
